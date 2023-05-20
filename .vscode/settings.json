@@ -1,0 +1,8 @@
+{
+    "editor.defaultFoldingRangeProvider": "esbenp.prettier-vscode",
+    "[typescript]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnPaste": true,
+        "editor.wordWrap": "on"
+    }
+}
